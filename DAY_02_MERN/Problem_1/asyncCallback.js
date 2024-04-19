@@ -16,6 +16,7 @@ const readFiles = (files, callback) => {
         callback(null, data);
       }
     });
+    
   });
 };
 
